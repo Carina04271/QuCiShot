@@ -1,0 +1,15 @@
+# 构建产物
+build/
+*.app
+
+# 图标生成中间文件
+mkicon
+
+# macOS 杂项
+.DS_Store
+*.ips
+*.log
+
+# Python
+__pycache__/
+*.pyc
